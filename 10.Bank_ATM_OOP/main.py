@@ -1,7 +1,7 @@
 from banking import Banking
 
 
-islem = Banking('1234','ismail','baser','12345')
+islem = Banking('1234','ali','veli','12345')
 
 print(f'ilk balance: {islem.balance}')
 
